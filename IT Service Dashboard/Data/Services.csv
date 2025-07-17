@@ -1,0 +1,6 @@
+ServiceID,ServiceName,ServiceCategory
+1,Password Reset,User Administration
+2,Software Installation,Software Support
+3,Hardware Issue,Hardware Support
+4,Network Connectivity,Network Support
+5,Email Configuration,User Administration
